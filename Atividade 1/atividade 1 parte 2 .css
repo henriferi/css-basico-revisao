@@ -1,0 +1,38 @@
+#titulo {
+    text-align: right;
+}
+.nomes{
+    color: red;
+}
+.negrito {
+    font-weight: bold;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#celula1 {
+    background: blue;
+}
+#celula2 {
+    background: orange;
+}
+#celula3 {
+    background: pink;
+}
+#celula4 {
+    background: purple;
+}
+#celula5 {
+    background: green;
+}
+#celula6 {
+    background: brown;
+}
+#celula7 {
+    background: cornflowerblue;
+}
+#celula8 {
+    background: rgb(95, 95, 114);
+}

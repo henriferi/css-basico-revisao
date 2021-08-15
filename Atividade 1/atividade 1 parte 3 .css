@@ -1,0 +1,33 @@
+body {
+    margin: 25px;
+}
+#cor {
+   height: 100px; width: 100%;
+   background: red;
+   border: 10px solid green;
+}
+#parte2 {
+    height: 100px; width: 100%;
+    border: 2px solid;
+    text-align: justify;
+}
+#parte3 {
+    height: 100px; width: 100%;
+    background: rgb(134, 4, 151);
+    border: 2px solid;
+}
+.verde{
+    color: green;
+}
+.preto{
+    color: black;
+}
+.amarelo{
+    color: yellow;
+}
+#parte4 {
+    height: 100px; width: 100%;
+   background: orange;
+   border: 10px solid red;
+   font-size: 30px;
+}
